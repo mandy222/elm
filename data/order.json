@@ -1,0 +1,84 @@
+{
+	"list":[
+		{
+			"src":"./data/img/order/order01.webp",
+			"title":"御品粥点(香雪店)",
+			"state":"订单已送达",
+			"time":"2019-07-12 15:21",
+			"food":"青菜玉米粥",
+			"price":"￥12"
+		},
+		{
+			"src":"./data/img/order/order02.webp",
+			"title":"华莱士(伶俐店)",
+			"state":"订单已送达",
+			"time":"2019-07-01 12:00",
+			"food":"单人套餐等2件商品",
+			"price":"￥38"
+		},
+		{
+			"src":"./data/img/order/order03.webp",
+			"title":"百分百糖水",
+			"state":"您主动取消",
+			"time":"2019-06-12 12:21",
+			"food":"香芋西米露",
+			"price":"￥6"
+		},
+		{
+			"src":"./data/img/order/order04.webp",
+			"title":"胖砸汉堡店",
+			"state":"订单已送达",
+			"time":"2019-05-29 15:21",
+			"food":"蜜汁鸡等3件商品",
+			"price":"￥32"
+		},
+		{
+			"src":"./data/img/order/order05.webp",
+			"title":"老麦家的饭",
+			"state":"订单已送达",
+			"time":"2019-05-12 18:01",
+			"food":"快乐炒饭",
+			"price":"￥12"
+		},
+		{
+			"src":"./data/img/order/order01.webp",
+			"title":"御品粥点(香雪店)",
+			"state":"订单已送达",
+			"time":"2019-07-12 15:21",
+			"food":"青菜玉米粥",
+			"price":"￥12"
+		},
+		{
+			"src":"./data/img/order/order02.webp",
+			"title":"华莱士(伶俐店)",
+			"state":"订单已送达",
+			"time":"2019-07-01 12:00",
+			"food":"单人套餐等2件商品",
+			"price":"￥38"
+		},
+		{
+			"src":"./data/img/order/order03.webp",
+			"title":"百分百糖水",
+			"state":"您主动取消",
+			"time":"2019-06-12 12:21",
+			"food":"香芋西米露",
+			"price":"￥6"
+		},
+		{
+			"src":"./data/img/order/order04.webp",
+			"title":"胖砸汉堡店",
+			"state":"订单已送达",
+			"time":"2019-05-29 15:21",
+			"food":"蜜汁鸡等3件商品",
+			"price":"￥32"
+		},
+		{
+			"src":"./data/img/order/order05.webp",
+			"title":"老麦家的饭",
+			"state":"订单已送达",
+			"time":"2019-05-12 18:01",
+			"food":"快乐炒饭",
+			"price":"￥12"
+		}
+	]
+}

@@ -1,0 +1,574 @@
+{
+	"classfiy": "鲜切水果",
+	"cont": [
+		{
+			"src": "./data/img/store/f201.webp",
+			"title": "鲜切南海香蕉一份-200g",
+			"weight":"(200g)",
+			"sale": 7,
+			"discount": 1.1,
+			"price": [1, 8.8]
+		}, 
+		{
+			"src": "./data/img/store/f202.webp",
+			"title": "鲜切黑美人西瓜-200g",
+			"weight":"(200g)",
+			"sale": 14,
+			"discount": 1.1,
+			"price": [3.8, 8.8]
+		}, 
+		{
+			"src": "./data/img/store/f203.webp",
+			"title": "精品南海香蕉一根",
+			"weight":"南海香蕉更甜哦",
+			"sale": 7,
+			"discount": 4.1,
+			"price": [1.8, 3.8]
+		}, 
+		{
+			"src": "./data/img/store/f204.webp",
+			"title": "圣女果1盒-450g",
+			"weight":"(200g)",
+			"sale": 9,
+			"discount": 5.9,
+			"price": [8.8, 15]
+		}, 
+		{
+			"src": "./data/img/store/f205.webp",
+			"title": "【限时特惠】鲜切哈密瓜",
+			"weight":"(200g)",
+			"sale": 9,
+			"discount": 5.9,
+			"price": [9.9, 12.8]
+		}, 
+		{
+			"src": "./data/img/store/f206.webp",
+			"title": "越南红肉火龙果1个-500g",
+			"weight":"(200g)",
+			"sale": 7,
+			"discount": 7.1,
+			"price": [16.8, 23.8]
+		}, {
+			"src": "./data/img/store/f207.webp",
+			"title": "蓝莓一盒",
+			"weight":"更好吃，含更多花青素",
+			"sale": 1,
+			"discount": 7.2,
+			"price": [9.9, 13.8]
+		}]
+},
+{
+	"classfiy": "超值六合一拼盘",
+	"cont": [
+		{
+			"src": "./data/img/store/f301.webp",
+			"title": "鲜切南海香蕉一份-200g",
+			"weight":"(200g)",
+			"sale": 7,
+			"discount": 1.1,
+			"price": [1, 8.8]
+		}, 
+		{
+			"src": "./data/img/store/f302.webp",
+			"title": "鲜切黑美人西瓜-200g",
+			"weight":"(200g)",
+			"sale": 14,
+			"discount": 1.1,
+			"price": [3.8, 8.8]
+		}, 
+		{
+			"src": "./data/img/store/f303.webp",
+			"title": "精品南海香蕉一根",
+			"weight":"南海香蕉更甜哦",
+			"sale": 7,
+			"discount": 4.1,
+			"price": [1.8, 3.8]
+		}, 
+		{
+			"src": "./data/img/store/f304.webp",
+			"title": "圣女果1盒-450g",
+			"weight":"(200g)",
+			"sale": 9,
+			"discount": 5.9,
+			"price": [8.8, 15]
+		}, 
+		{
+			"src": "./data/img/store/f305.webp",
+			"title": "【限时特惠】鲜切哈密瓜",
+			"weight":"(200g)",
+			"sale": 9,
+			"discount": 5.9,
+			"price": [9.9, 12.8]
+		}, 
+		{
+			"src": "./data/img/store/f306.webp",
+			"title": "越南红肉火龙果1个-500g",
+			"weight":"(200g)",
+			"sale": 7,
+			"discount": 7.1,
+			"price": [16.8, 23.8]
+		}
+	]
+}, 
+{
+	"classfiy": "超值六合一拼盘",
+	"cont": [
+		{
+			"src": "./data/img/store/f101.webp",
+			"title": "鲜切南海香蕉一份-200g",
+			"weight":"(200g)",
+			"sale": 7,
+			"discount": 1.1,
+			"price": [1, 8.8]
+		}, 
+		{
+			"src": "./data/img/store/f102.webp",
+			"title": "鲜切黑美人西瓜-200g",
+			"weight":"(200g)",
+			"sale": 14,
+			"discount": 1.1,
+			"price": [3.8, 8.8]
+		}, 
+		{
+			"src": "./data/img/store/f103.webp",
+			"title": "精品南海香蕉一根",
+			"weight":"南海香蕉更甜哦",
+			"sale": 7,
+			"discount": 4.1,
+			"price": [1.8, 3.8]
+		}, 
+		{
+			"src": "./data/img/store/f104.webp",
+			"title": "圣女果1盒-450g",
+			"weight":"(200g)",
+			"sale": 9,
+			"discount": 5.9,
+			"price": [8.8, 15]
+		}, 
+		{
+			"src": "./data/img/store/f105.webp",
+			"title": "【限时特惠】鲜切哈密瓜",
+			"weight":"(200g)",
+			"sale": 9,
+			"discount": 5.9,
+			"price": [9.9, 12.8]
+		}, 
+		{
+			"src": "./data/img/store/f106.webp",
+			"title": "越南红肉火龙果1个-500g",
+			"weight":"(200g)",
+			"sale": 7,
+			"discount": 7.1,
+			"price": [16.8, 23.8]
+		}, 
+		{
+			"src": "./data/img/store/f107.webp",
+			"title": "蓝莓一盒",
+			"weight":"南海更好吃，含更多花青素",
+			"sale": 1,
+			"discount": 7.2,
+			"price": [9.9, 13.8]
+		}
+	]
+},
+{
+
+	"classfiy": "国产水果区",
+	"cont": [
+		{
+			"src": "./data/img/store/f201.webp",
+			"title": "鲜切南海香蕉一份-200g",
+			"weight":"(200g)",
+			"sale": 7,
+			"discount": 1.1,
+			"price": [1, 8.8]
+		},
+		{
+			"src": "./data/img/store/f202.webp",
+			"title": "鲜切黑美人西瓜-200g",
+			"weight":"(200g)",
+			"sale": 14,
+			"discount": 1.1,
+			"price": [3.8, 8.8]
+		},
+		{
+			"src": "./data/img/store/f203.webp",
+			"title": "精品南海香蕉一根",
+			"weight":"南海香蕉更甜哦",
+			"sale": 7,
+			"discount": 4.1,
+			"price": [1.8, 3.8]
+		}, 
+		{
+			"src": "./data/img/store/f204.webp",
+			"title": "圣女果1盒-450g",
+			"weight":"(200g)",
+			"sale": 9,
+			"discount": 5.9,
+			"price": [8.8, 15]
+		}, 
+		{
+			"src": "./data/img/store/f205.webp",
+			"title": "【限时特惠】鲜切哈密瓜",
+			"weight":"(200g)",
+			"sale": 9,
+			"discount": 5.9,
+			"price": [9.9, 12.8]
+		}, 
+		{
+			"src": "./data/img/store/f206.webp",
+			"title": "越南红肉火龙果1个-500g",
+			"weight":"(200g)",
+			"sale": 7,
+			"discount": 7.1,
+			"price": [16.8, 23.8]
+		}
+	]
+
+}, 
+{
+
+
+	"classfiy": "进口水果区",
+	"cont": [
+		{
+			"src": "./data/img/store/f303.webp",
+			"title": "精品南海香蕉一根",
+			"weight":"南海香蕉更甜哦",
+			"sale": 7,
+			"discount": 4.1,
+			"price": [1.8, 3.8]
+		},
+		{
+			"src": "./data/img/store/f301.webp",
+			"title": "鲜切南海香蕉一份-200g",
+			"weight":"(200g)",
+			"sale": 7,
+			"discount": 1.1,
+			"price": [1, 8.8]
+		}, 
+		{
+			"src": "./data/img/store/f302.webp",
+			"title": "鲜切黑美人西瓜-200g",
+			"weight":"(200g)",
+			"sale": 14,
+			"discount": 1.1,
+			"price": [3.8, 8.8]
+		},  
+		{
+			"src": "./data/img/store/f304.webp",
+			"title": "圣女果1盒-450g",
+			"weight":"(200g)",
+			"sale": 9,
+			"discount": 5.9,
+			"price": [8.8, 15]
+		}, 
+		{
+			"src": "./data/img/store/f305.webp",
+			"title": "【限时特惠】鲜切哈密瓜",
+			"weight":"(200g)",
+			"sale": 9,
+			"discount": 5.9,
+			"price": [9.9, 12.8]
+		},
+		{
+			"src": "./data/img/store/f306.webp",
+			"title": "越南红肉火龙果1个-500g",
+			"weight":"(200g)",
+			"sale": 7,
+			"discount": 7.1,
+			"price": [16.8, 23.8]
+		}
+	]
+
+},
+
+{
+
+	"classfiy": "苹果香蕉",
+	"cont": [
+		{
+			"src": "./data/img/store/f105.webp",
+			"title": "【限时特惠】鲜切哈密瓜",
+			"weight":"(200g)",
+			"sale": 9,
+			"discount": 5.9,
+			"price": [9.9, 12.8]
+		}, 
+		{
+			"src": "./data/img/store/f106.webp",
+			"title": "越南红肉火龙果1个-500g",
+			"weight":"(200g)",
+			"sale": 7,
+			"discount": 7.1,
+			"price": [16.8, 23.8]
+		}, 
+		{
+			"src": "./data/img/store/f101.webp",
+			"title": "鲜切南海香蕉一份-200g",
+			"weight":"(200g)",
+			"sale": 7,
+			"discount": 1.1,
+			"price": [1, 8.8]
+		}, 
+		{
+			"src": "./data/img/store/f102.webp",
+			"title": "鲜切黑美人西瓜-200g",
+			"weight":"(200g)",
+			"sale": 14,
+			"discount": 1.1,
+			"price": [3.8, 8.8]
+		},
+		{
+			"src": "./data/img/store/f103.webp",
+			"title": "精品南海香蕉一根",
+			"weight":"南海香蕉更甜哦",
+			"sale": 7,
+			"discount": 4.1,
+			"price": [1.8, 3.8]
+		},
+		{
+			"src": "./data/img/store/f104.webp",
+			"title": "圣女果1盒-450g",
+			"weight":"(200g)",
+			"sale": 9,
+			"discount": 5.9,
+			"price": [8.8, 15]
+		}, 
+		{
+			"src": "./data/img/store/f107.webp",
+			"title": "蓝莓一盒",
+			"weight":"蓝莓更好吃，含更多花青素",
+			"sale": 1,
+			"discount": 7.2,
+			"price": [9.9, 13.8]
+		}
+	]
+
+},
+{
+
+	"classfiy": "瓜梨桃李",
+	"cont": [
+		{
+			"src": "./data/img/store/f204.webp",
+			"title": "圣女果1盒-450g",
+			"weight":"(200g)",
+			"sale": 9,
+			"discount": 5.9,
+			"price": [8.8, 15]
+		}, 
+		{
+			"src": "./data/img/store/f201.webp",
+			"title": "鲜切南海香蕉一份-200g",
+			"weight":"(200g)",
+			"sale": 7,
+			"discount": 1.1,
+			"price": [1, 8.8]
+		}, 
+		{
+			"src": "./data/img/store/f202.webp",
+			"title": "鲜切黑美人西瓜-200g",
+			"weight":"(200g)",
+			"sale": 14,
+			"discount": 1.1,
+			"price": [3.8, 8.8]
+		}, 
+		{
+			"src": "./data/img/store/f203.webp",
+			"title": "精品南海香蕉一根",
+			"weight":"南海香蕉更甜哦",
+			"sale": 7,
+			"discount": 4.1,
+			"price": [1.8, 3.8]
+		}, 
+		{
+
+			"src": "./data/img/store/f205.webp",
+			"title": "【限时特惠】鲜切哈密瓜",
+			"weight":"(200g)",
+			"sale": 9,
+			"discount": 5.9,
+			"price": [9.9, 12.8]
+		}, 
+		{
+			"src": "./data/img/store/f206.webp",
+			"title": "越南红肉火龙果1个-500g",
+			"weight":"(200g)",
+			"sale": 7,
+			"discount": 7.1,
+			"price": [16.8, 23.8]
+		}
+	]
+
+}, 
+{
+
+	"classfiy": "果篮.礼盒",
+	"cont": [
+		{
+			"src": "./data/img/store/f302.webp",
+			"title": "鲜切黑美人西瓜-200g",
+			"weight":"(200g)",
+			"sale": 14,
+			"discount": 1.1,
+			"price": [3.8, 8.8]
+		}, 
+		{
+			"src": "./data/img/store/f301.webp",
+			"title": "鲜切南海香蕉一份-200g",
+			"weight":"(200g)",
+			"sale": 7,
+			"discount": 1.1,
+			"price": [1, 8.8]
+		}, 
+		{
+			"src": "./data/img/store/f303.webp",
+			"title": "精品南海香蕉一根",
+			"weight":"南海香蕉更甜哦",
+			"sale": 7,
+			"discount": 4.1,
+			"price": [1.8, 3.8]
+		}, 
+		{
+			"src": "./data/img/store/f304.webp",
+			"title": "圣女果1盒-450g",
+			"weight":"(200g)",
+			"sale": 9,
+			"discount": 5.9,
+			"price": [8.8, 15]
+		}, 
+		{
+			"src": "./data/img/store/f305.webp",
+			"title": "【限时特惠】鲜切哈密瓜",
+			"weight":"(200g)",
+			"sale": 9,
+			"discount": 5.9,
+			"price": [9.9, 12.8]
+		}, 
+		{
+			"src": "./data/img/store/f306.webp",
+			"title": "越南红肉火龙果1个-500g",
+			"weight":"(200g)",
+			"sale": 7,
+			"discount": 7.1,
+			"price": [16.8, 23.8]
+		}
+	]
+}, {
+
+	"classfiy": "公司聚会，优惠多多",
+	"cont": [
+		{
+			"src": "./data/img/store/f104.webp",
+			"title": "圣女果1盒-450g",
+			"weight":"(200g)",
+			"sale": 9,
+			"discount": 5.9,
+			"price": [8.8, 15]
+		}, 
+		{
+			"src": "./data/img/store/f105.webp",
+			"title": "【限时特惠】鲜切哈密瓜",
+			"weight":"(200g)",
+			"sale": 9,
+			"discount": 5.9,
+			"price": [9.9, 12.8]
+		}, 
+		{
+			"src": "./data/img/store/f101.webp",
+			"title": "鲜切南海香蕉一份-200g",
+			"weight":"(200g)",
+			"sale": 7,
+			"discount": 1.1,
+			"price": [1, 8.8]
+		},
+		{
+			"src": "./data/img/store/f102.webp",
+			"title": "鲜切黑美人西瓜-200g",
+			"weight":"(200g)",
+			"sale": 14,
+			"discount": 1.1,
+			"price": [3.8, 8.8]
+		}, 
+		{
+			"src": "./data/img/store/f103.webp",
+			"title": "精品南海香蕉一根",
+			"weight":"南海香蕉更甜哦",
+			"sale": 7,
+			"discount": 4.1,
+			"price": [1.8, 3.8]
+		}, 
+		{
+			"src": "./data/img/store/f106.webp",
+			"title": "越南红肉火龙果1个-500g",
+			"weight":"(200g)",
+			"sale": 7,
+			"discount": 7.1,
+			"price": [16.8, 23.8]
+		}, 
+		{
+			"src": "./data/img/store/f107.webp",
+			"title": "蓝莓一盒",
+			"weight":"更好吃，含更多花青素",
+			"sale": 1,
+			"discount": 7.2,
+			"price": [9.9, 13.8]
+		}
+	]
+
+},
+{
+
+	"classfiy": "本店福利，可开发票",
+	"cont": [
+		{
+			"src": "./data/img/store/f203.webp",
+			"title": "精品南海香蕉一根",
+			"weight":"香蕉更甜哦",
+			"sale": 7,
+			"discount": 4.1,
+			"price": [1.8, 3.8]
+		}, 
+		{
+			"src": "./data/img/store/f204.webp",
+			"title": "圣女果1盒-450g",
+			"weight":"(200g)",
+			"sale": 9,
+			"discount": 5.9,
+			"price": [8.8, 15]
+		},
+		{
+			"src": "./data/img/store/f201.webp",
+			"title": "鲜切南海香蕉一份-200g",
+			"weight":"(200g)",
+			"sale": 7,
+			"discount": 1.1,
+			"price": [1, 8.8]
+		}, 
+		{
+			"src": "./data/img/store/f202.webp",
+			"title": "鲜切黑美人西瓜-200g",
+			"weight":"(200g)",
+			"sale": 14,
+			"discount": 1.1,
+			"price": [3.8, 8.8]
+		}, 
+		{
+			"src": "./data/img/store/f205.webp",
+			"title": "【限时特惠】鲜切哈密瓜",
+			"weight":"(200g)",
+			"sale": 9,
+			"discount": 5.9,
+			"price": [9.9, 12.8]
+		},
+		{
+			"src": "./data/img/store/f206.webp",
+			"title": "越南红肉火龙果1个-500g",
+			"weight":"(200g)",
+			"sale": 7,
+			"discount": 7.1,
+			"price": [16.8, 23.8]
+		}
+	]
+}
